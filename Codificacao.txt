@@ -1,0 +1,3 @@
+	Codificacao
+
+O programa sera feito na linguagem python, pois e a linguagem que eu mais domino.
