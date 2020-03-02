@@ -1,0 +1,11 @@
+Operação
+
+O uberAIR é um projeto da Uber que pretende trazer carros voadores para transporte urbano. O objetivo é que os usuários possam pedir o serviço da mesma forma que já fazem no aplicativo de corridas. Para transformar a ideia em realidade, a empresa vem trabalhando em parceria com outras companhias para o desenvolvimento dos veículos, que devem obedecer a uma série de critérios estabelecidos pela Uber.
+
+Antes de começar, vale ressaltar que o protótipo disponível no escritório não funciona, ou seja, ele não voa de fato. O veículo foi criado para que as pessoas que trabalham no projeto possam ter uma noção de como o carro voador deve funcionar e testar seus futuros recursos. Isso é importante para que a Uber possa estabelecer critérios, visto que são outras empresas que vão criar os veículos.
+
+O protótipo disponível foi desenvolvido em parceria com a Safran, uma companhia francesa que atua no ramo da aviação. No caso do Brasil, é a Embraer que vai fabricar o carro voador. Segundo Mark Moore, diretor de engenharia para aviação da Uber, algumas empresas parceiras já estão testando a capacidade de voo de seus veículos, mas ele ainda não pode revelar em quais lugares isso vem sendo feito.
+
+O carro voador tem espaço para o piloto e mais quatro passageiros. No entanto, para evitar distrações, o motorista fica separado por um vidro
+
+Com relação à estrutura, o carro tem uma cabine acústica, que isola os sons externos, mas permite que os passageiros conversem entre si. Além disso, alguns detalhes, como a iluminação, são pensados para fazer com que o veículo pareça maior do que é, diminuindo a sensação de claustrofobia.
