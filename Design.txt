@@ -1,0 +1,4 @@
+	Design
+
+Sera utilizado Banco de dados MySQL, para armazenar os dados dos clientes, Visual Studio Code 
+para fazer a codificacao do sistema.
