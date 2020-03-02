@@ -1,0 +1,6 @@
+	Analise
+
+O sistema vai procurar um carro mais proximo da pessoa que solicitou para gastar menos 
+combustivel, um motorista com permissao de conduzir um carro voador, um carro mais 
+economico, considerar se o clima esta proporcional a uma viagem segura, colocar opções de 
+pagamento como debito, credito e dinheiro.
